@@ -1,5 +1,5 @@
 package com.cg.dao;
 
-public class AdminJPArepository {
+public interface AdminJPArepository {
 
 }
